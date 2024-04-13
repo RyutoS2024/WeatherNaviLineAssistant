@@ -13,6 +13,7 @@
     - 外出時に気を付けるべきポイントなど
 
 ## 処理フロー
+![WeatherNaviLineAssistant_Processing_Flow](https://github.com/RyutoS2024/WeatherNaviLineAssistant/assets/87289018/1e6773ec-ceee-4d3b-81ab-66646b3b8c50)
 - OpenWeatherMap APIからHourlyデータを取得する
   - Hourlyデータとは実行時間から48時間後までの1時間ごとの気象データ
 - 気象データを整形する
